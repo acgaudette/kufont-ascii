@@ -5,9 +5,7 @@ It uses a custom format that can be rendered with [this thing][2].
 The format is intended to make iterative painting as simple as possible,
 while still resulting in a binary file that doesn't include more than it needs.
 
-![](media/2bp.gif)
 ![](media/toast.png)
-![](media/kufont-ascii.png)
 
 This version of the font only contains (most of) the ASCII character set,
 as opposed to the one I use locally,
@@ -22,6 +20,8 @@ Otherwise, you're only limited by the size of the file.
 This font is 128x128, which means it can fit 256 "single-wide" characters.
 Only 128 of those are ASCII, and even within ASCII, a lot of space is unused.
 All that empty space is great for storing the rest of the sprites for your game.
+
+![](media/kufont-ascii.png)
 
 [1]: https://aaronsee.media/ku.html
 [2]: https://github.com/acgaudette/txtquad
