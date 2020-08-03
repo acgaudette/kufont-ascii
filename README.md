@@ -7,7 +7,7 @@ while still resulting in a binary file that doesn't include more than it needs.
 
 ![](media/2bp.gif)
 ![](media/toast.png)
-![](kufont-ascii.pbm)
+![](media/kufont-ascii.png)
 
 This version of the font only contains (most of) the ASCII character set,
 as opposed to the one I use locally,
