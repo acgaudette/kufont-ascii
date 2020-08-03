@@ -23,5 +23,11 @@ All that empty space is great for storing the rest of the sprites for your game.
 
 ![](media/kufont-ascii.png)
 
+The font is licensed under the [creative commons attribution 4 license][3],
+which basically means you can do whatever you want
+as long as you put a note about me somewhere.
+I'll probably release it into the public domain later though.
+
 [1]: https://aaronsee.media/ku.html
 [2]: https://github.com/acgaudette/txtquad
+[3]: https://creativecommons.org/licenses/by/4.0/legalcode
